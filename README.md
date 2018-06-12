@@ -1,1 +1,1 @@
-# Sample
+# Sample repository for Git
